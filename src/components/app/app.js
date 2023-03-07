@@ -3,8 +3,8 @@ import { Component } from 'react';
 import AppInfo from '../app-info/app-info';
 import  '../filter-panel/filter-panel.css';
 import AppFilter from '../app-filter/app-filter';
-import EmployeesList from '../employees-list/employees-list';
-import EmployeesAddForm from '../employees-add-form/employees-add-form';
+import EmployeesList from '../list/list';
+import EmployeesAddForm from '../add-form/add-form';
 
 import './app.css';
 

@@ -1,6 +1,6 @@
-import EmployeesListItem from "../employees-list-item/employees-list-item";
+import EmployeesListItem from "../list-item/list-item";
 
-import './employees-list.css';
+import './list.css';
 
 const EmployeesList = ({data, onDelete}) => {
 
